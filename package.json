@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Diplomiin app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "orderApp"
+  },
+  "keywords": [
+    "Diplom",
+    "order",
+    "app"
+  ],
+  "author": "Ambuuk",
+  "license": "ISC"
+}
